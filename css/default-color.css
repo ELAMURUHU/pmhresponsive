@@ -1,0 +1,452 @@
+.header .nav li.item-select {
+    background: #06334b;
+}
+
+.header .nav li:hover {
+    background: #06334b;
+}
+
+.wtf-menu ul.submenu li:hover {
+    background: #c31d5dc9;
+}
+
+.tp-caption.grey_heavy_72-light {
+    color: #c31d5dc9;
+}
+
+.tp-caption.icon i {
+    background: #c31d5dc9;
+}
+
+.services-one .service-sec .icon {
+    background: #06334b;
+}
+
+.services-one .service-sec .detail ul li {
+    color: #06334b;
+}
+
+.z-tabs.silver>ul>li.z-active>a {
+    border-bottom: solid 5px #c31d5dc9;
+    color: #c31d5dc9;
+}
+
+.z-tabs.horizontal .detail a:hover {
+    background-color: #c31d5dc9;
+}
+
+.meet-specialists .detail h6 {
+    color: #c31d5dc9;
+}
+
+.meet-specialists .detail a:hover {
+    color: #c31d5dc9;
+}
+
+.latest-news .post .detail a:hover {
+    color: #c31d5dc9;
+}
+
+.patients-testi .testi-sec span.name {
+    color: #c31d5dc9;
+}
+
+.owl-theme .owl-controls .owl-page.active span,
+.owl-theme .owl-controls.clickable .owl-page:hover span {
+    background: #c31d5dc9;
+}
+
+.main-footer .tweets .text a:hover {
+    color: #c31d5dc9;
+}
+
+.main-footer .newsletter .form input[type=submit]:hover {
+    background: #c31d5dc9;
+}
+
+.cd-top {
+    background-color: #06334b;
+}
+
+.side-form-icons {
+    background-color: #06334b;
+}
+
+.header2 .nav li.item-select {
+    background: #c31d5dc9 url(../images/navi-plus.png) no-repeat 50% 32%;
+}
+
+.header2 .nav li.item-select:hover {
+    background: #c31d5dc9 url(../images/navi-plus.png) no-repeat 50% 32%;
+}
+
+.header2 .nav li:hover {
+    background: #464C5B url(../images/navi-plus.png) no-repeat 50% 32%;
+    border-radius: 0;
+    padding: 46px 0 32px 0;
+}
+
+.tp-bullets.preview4 .bullet.selected {
+    background: #c31d5dc9 !important;
+}
+
+.services-two .service-sec .icon {
+    background: #c31d5dc9;
+}
+
+.services-three .serv-sec {
+    background: #c31d5dc9;
+}
+
+.services-three .serv-sec.serv-sec2 {
+    background: #c31d5dc9;
+}
+
+.services-three .serv-sec.serv-sec3 {
+    background: #c31d5dc9;
+}
+
+.welcome-two .welcome-detail ul li {
+    color: #c31d5dc9;
+}
+
+.footer-light .emergency i {
+    color: #c31d5dc9;
+}
+
+.footer-light .main-footer .title h5 {
+    color: #c31d5dc9;
+    border-bottom: solid 1px #c31d5dc9;
+}
+
+.footer-light .main-footer .tweets .text a {
+    color: #c31d5dc9;
+}
+
+.footer-light .main-footer .tweets .icon {
+    color: #c31d5dc9;
+}
+
+.footer-light .main-footer .get-touch ul li a:hover span {
+    color: #c31d5dc9;
+}
+
+
+/** banner three **/
+.main-banner-three {
+    background: rgba(195, 29, 92, 0.69);
+}
+
+/** Fancybox overlay **/
+.fancybox-overlay {
+    /* background: rgba(195, 29, 92, 0.84); */
+    background: rgba(6, 51, 75, 0.84);
+}
+
+/** Team Social icons **/
+.cbp-caption-activeWrap {
+    background-color: rgba(195, 29, 92, 0.81);
+}
+
+.appointment-form .form input[type=submit]:hover {
+    background: #c31d5dc9;
+}
+
+.services-five .service-sec .icon {
+    background: #c31d5dc9;
+    box-shadow: 0 0 0 3px #c31d5dc9;
+}
+
+.sub-banner .detail ul li:last-child a {
+    color: #c31d5dc9;
+}
+
+.sub-banner .detail ul li a:hover {
+    color: #c31d5dc9;
+}
+
+.why-choose li.open .link {
+    color: #c31d5dc9;
+}
+
+.why-choose li.open i {
+    color: #c31d5dc9 !important;
+}
+
+#services-slide .owl-controls .owl-page.active span {
+    background: #c31d5dc9;
+}
+
+.welcome-three .welcome-detail ul li i {
+    color: #c31d5dc9;
+}
+
+.member-detail .team-detail .name h6 {
+    color: #c31d5dc9;
+}
+
+.year {
+    color: #c31d5dc9;
+}
+
+.main-appointment-form .appointment-form {
+    background: #c31d5dc9;
+}
+
+.main-appointment-form .appoint-icon {
+    background-color: #c31d5dc9;
+}
+
+.contact-us .leave-msg .form input[type=submit]:hover {
+    background: #c31d5dc9;
+}
+
+.contact-us .give-msg input[type=submit]:hover {
+    background: #c31d5dc9;
+}
+
+.departments .depart-sec a:hover {
+    background: #c31d5dc9;
+}
+
+.investigation .investigation-sec .title {
+    background: #c31d5dc9;
+}
+
+.cbp-l-filters-list .cbp-filter-item.cbp-filter-item-active {
+    color: #c31d5dc9;
+    border-bottom: solid 5px #c31d5dc9;
+}
+
+.cbp-l-filters-list .cbp-filter-item:hover {
+    border-bottom: solid 5px #c31d5dc9;
+}
+
+/* .main-gallery .layer i { */
+.main-gallery .layer p {
+    background: #c31d5dc9;
+}
+
+.main-gallery .gallery-sec .detail h6 {
+    color: #c31d5dc9;
+}
+
+.main-gallery .gallery-sec .detail {
+    border-bottom: solid 4px #c31d5dc9;
+}
+
+.main-gallery a.gallery-sec:hover .detail {
+    /* background: #c31d5dc9; */
+    background-color: rgb(6, 51, 75);
+}
+
+.main-gallery .paging a:hover {
+    background: #c31d5dc9;
+    border: solid 1px #c31d5dc9;
+}
+
+.main-gallery .paging a.selected {
+    background: #c31d5dc9;
+    border: solid 1px #c31d5dc9;
+}
+
+.news-posts .comment-box .detail a:hover {
+    background: #c31d5dc9;
+}
+
+.news-posts .leave-reply .form input[type=submit]:hover {
+    background: #c31d5dc9;
+}
+
+.news-posts .categories ul li a:hover {
+    color: #c31d5dc9;
+}
+
+.news-posts .recent-posts .post-sec a.title:hover {
+    color: #c31d5dc9;
+}
+
+.news-posts .news-sec .detail a.read-more:hover {
+    background-color: #c31d5dc9;
+}
+
+.news-masonary .news-sec a:hover {
+    color: #c31d5dc9;
+}
+
+.text-posts .post-sec a.title:hover {
+    color: #c31d5dc9;
+}
+
+.text-posts .post-sec p a {
+    color: #c31d5dc9;
+}
+
+.text-posts .post-sec ul li a:hover i {
+    color: #c31d5dc9;
+}
+
+.text-posts .post-sec ul li a:hover span {
+    color: #c31d5dc9;
+}
+
+.text-posts .next-pre a:hover {
+    color: #c31d5dc9;
+}
+
+.patient-family .how-treat a:hover {
+    background: #c31d5dc9;
+}
+
+.procedures-links span.title {
+    background: #c31d5dc9;
+}
+
+.procedures .procedure-text ul li {
+    color: #c31d5dc9;
+}
+
+.procedures .about-cancer-center span.name {
+    color: #c31d5dc9;
+}
+
+#procedures-faq.accordion li.open .link {
+    background-color: #c31d5dc9;
+}
+
+.research .research-detail li i {
+    color: #c31d5dc9;
+}
+
+.services-content .serv-sec .detail h5 {
+    color: #c31d5dc9;
+}
+
+.product-thumb label {
+    background: #c31d5dc9;
+}
+
+.product-description h3 a {
+    color: #c31d5dc9;
+}
+
+.product-description .product-cart-btn:hover,
+.product-description .product-detail-btn:hover {
+    color: #c31d5dc9;
+}
+
+.ui-widget-header {
+    background: #c31d5dc9;
+}
+
+.top-products .top-products-detail a {
+    color: #c31d5dc9;
+}
+
+.ratings.big i {
+    color: #c31d5dc9;
+}
+
+.product-detail-slider .rslides_tabs li.rslides_here a {
+    background: #c31d5dc9
+}
+
+a#add-review-btn:hover {
+    background-color: #c31d5dc9;
+}
+
+.resp-vtabs li.resp-tab-active {
+    color: #c31d5dc9;
+}
+
+.product-detail-description .btn-medium:hover {
+    background: #c31d5dc9;
+}
+
+.pricing-table-footer a {
+    background-color: #c31d5dc9;
+}
+
+.all-team-members .detail h6 {
+    color: #c31d5dc9;
+}
+
+.all-team-members .detail a:hover {
+    color: #c31d5dc9;
+}
+
+.cbp-l-caption-text a:hover {
+    color: #c31d5dc9;
+}
+
+.main-footer .useful-links ul li a:hover {
+    color: #c31d5dc9;
+}
+
+.main-footer .get-touch ul li a:hover span {
+    color: #c31d5dc9;
+}
+
+#accordion2 .time-table {
+    background: #06334b url(../images/time-icon-bg.png) no-repeat;
+}
+
+.top-bar .get-touch li:last-child a:hover {
+    color: #c31d5dc9;
+}
+
+.meet-specialists .gallery-sec .layer {
+    background-color: rgba(195, 29, 92, 0.84);
+}
+
+.member-detail .gallery-sec .layer {
+    /* background-color: rgba(195, 29, 92, 0.81); */
+    background-color: rgba(6, 51, 75, 0.81);
+}
+
+.meet-specialists .gallery-sec a:hover {
+    color: #c31d5dc9;
+}
+
+.footer-light .main-footer .newsletter .form input[type=submit]:hover {
+    background: #c31d5dc9;
+}
+
+.why-choose li i {
+    color: #c31d5dc9;
+}
+
+#page .header a {
+    background-color: #c31d5dc9 !important;
+}
+
+.mm-menu {
+    background: #c31d5dc9 !important;
+}
+
+ul.z-tabs-nav.z-tabs-mobile.z-state-closed {
+    background-color: #c31d5dc9 !Important;
+}
+
+ul.z-tabs-mobile li:first-child {
+    background-color: #c31d5dc9 !important;
+}
+
+.header2.sticky .nav li.item-select {
+    background: #c31d5dc9;
+}
+
+
+
+.shop-cart .cart-pro-detail .cancel i {
+    color: #c31d5dc9;
+}
+
+.cash-decide .cart-total .total-sec a {
+    background: #c31d5dc9;
+}
+
+
+.shop-cart .cart-update-sec a:hover {
+    background: #c31d5dc9;
+}
